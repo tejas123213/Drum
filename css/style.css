@@ -1,0 +1,50 @@
+body{
+  background-color:bisque;
+  text-align: center;
+
+}
+.name{
+  font-family: 'Pacifico', cursive;
+  color:deepPink;
+  font-size: 50px;
+  text-shadow: 2px 2px #000000;
+
+}
+.tab{
+  height: 150px;
+  width: 150px;
+  background-color:white;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  color:black;
+  margin: 10px;
+  border:4px solid #404B69;
+  text-shadow: 2px 2px 8px #violet;
+
+}
+footer{
+  color:lime;
+  font-family: 'Pacifico', cursive;
+
+}
+.l{
+  background-image: url('../images/crash.png');
+}
+.o{
+  background-image: url('../images/kick.png');
+}
+.v{
+  background-image: url('../images/snare.png');
+}
+.e{
+  background-image: url('../images/tom1.png');
+}
+.y{
+  background-image: url('../images/tom2.png');
+}
+.t{
+  background-image: url('../images/tom3.png');
+}
+.u{
+  background-image: url('../images/tom4.png');
+}
